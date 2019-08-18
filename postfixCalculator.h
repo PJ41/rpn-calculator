@@ -26,14 +26,4 @@ class postfixCalculator {
   
 };
 
-
-
-
-
-
-
-
-
-
-
 #endif
